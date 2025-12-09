@@ -1,0 +1,16 @@
+# Compress Memory Dependencies
+
+# LlamaIndex Core
+llama-index-core>=0.12.0
+
+# LlamaIndex Integrations
+llama-index-llms-openrouter>=0.3.0
+llama-index-embeddings-openai-like>=0.3.0
+llama-index-vector-stores-faiss>=0.4.0
+
+# FAISS
+faiss-cpu>=1.7.0
+
+# Utilities
+httpx>=0.27.0
+aiohttp>=3.9.0

@@ -1,0 +1,21 @@
+# OS
+.DS_Store
+
+# LlamaIndex source (contains third-party secrets in notebooks)
+llama_index-main/
+
+# Test data (private)
+long_session/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Logs
+*.log
+
+# IDE
+.idea/
+.vscode/
